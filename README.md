@@ -1,19 +1,12 @@
-
-UCLA Workday Scheduler
+# Workday Scheduler
 
 ## Description
-A work day planner for those that are too busy to just pick up a notebook. Type it out! https://katcontrerasdev.github.io/quickWorkDayPlanner/
 
-![images](screenshot.png)
-## Table of Contents
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
-## Installation
-Just run the application by going to https://katcontrerasdev.github.io/quickWorkDayPlanner/
-## Usage
-Lazy workaholics.
+Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+
+- What was your motivation?
+- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+- What problem does it solve?
+- What did you learn?
+
+## Table of Contents (Optional)
