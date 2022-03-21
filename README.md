@@ -15,6 +15,8 @@ And Green for the upcominng hour.<br/>
 
 ![images](assets/images/Workday-S.png)
 
+https://tayhern.github.io/UCLA-Challenge-Workday-Scheduler/
+
 ## User Story
 AS AN employee with a busy schedule <br/>
 I WANT to add important events to a daily planner <br/>
