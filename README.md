@@ -13,4 +13,9 @@ Grey for completed.<br/>
 Red for the current time block.<br/>
 And Green for the upcominng hour.<br/>
 
-![alt text](UCLA-Challenge-Workday-Scheduler/assets/images/Workday-S.png)
+![images](assets/images/Workday-S.png)
+
+## User Story
+AS AN employee with a busy schedule <br/>
+I WANT to add important events to a daily planner <br/>
+SO THAT I can manage my time effectively <br/>
