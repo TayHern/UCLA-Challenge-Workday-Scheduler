@@ -13,3 +13,4 @@ Grey for completed.<br/>
 Red for the current time block.<br/>
 And Green for the upcominng hour.<br/>
 
+![alt text](UCLA-Challenge-Workday-Scheduler/assets/images/Workday-S.png)
